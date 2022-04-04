@@ -44,7 +44,7 @@ html, body {
 }
 
 .header1 {
-  background-image: url(img/fundo.JPG);
+  background-image: url(../img/fundo.JPG);
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.2);
   background-blend-mode: multiply;
