@@ -4,9 +4,6 @@
 
 Veja o projeto no github pages: https://micder1.github.io/TennisComplex-estudoJS/
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-
 <img src="img/repo1.png" alt="exemplo imagem">
 <img src="img/repo2.png" alt="exemplo imagem">
 <img src="img/repo3.png" alt="exemplo imagem">
